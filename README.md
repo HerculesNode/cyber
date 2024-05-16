@@ -24,7 +24,7 @@
 
 ### Mainnet ETH bridge
 
-- https://cyber.co/bridge  Bu adresten  ETH - Cyber Mainnet ağına aktarın. Fee yüksek biraz
+- https://cyber.co/bridge  Bu adresten `ETH ağından` - Cyber Mainnet ağına `ETH` aktarın. Fee yüksek biraz
 
 ### Kurulum 
 
