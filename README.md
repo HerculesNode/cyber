@@ -48,13 +48,15 @@ foundryup
 forge init PROJE-İSMİ
 ```
 
+- belirlediğiniz proje içine girin
+
 ```shell
 cd PROJE-İSMİ
 ```
 
 ### Deploy edin ( TESTNET )
 
-- Testnet için aşağıdaki kod kullanın Sepolia ETH yatırdığınız MM cüzdanınızın private keyni yazacaksınız.
+- Testnet için aşağıdaki kodu kullanın `CÜZDAN-PRİVATE-KEY-YAZIN` alanına Sepolia ETH yatırdığınız MM cüzdanınızın private keyni yazacaksınız. 
 
 ```shell
 forge create --rpc-url "https://cyber-testnet.alt.technology/" --private-key CÜZDAN-PRİVATE-KEY-YAZIN  src/Counter.sol:Counter
