@@ -75,9 +75,10 @@ forge create --rpc-url "https://cyber.alt.technology/" --private-key CÜZDAN-PR�
 
 
 - işlem sonunda size  aşağıdakileri verecek kaydedin bir yere
--Deployer
--Deployed to:
--Transaction hash:
+  
+- Deployer
+- Deployed to
+- Transaction hash
 
 ### Kontrol
 
