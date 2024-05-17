@@ -91,7 +91,9 @@ forge create --rpc-url "https://cyber.alt.technology/" --private-key CÜZDAN-PR�
 
 ### Form
 
-işlem sonunda aşağıdaki formu doldurun ve discord kanallarına girin.
+işlem sonunda aşağıdaki formu doldurun .  
 
 - Form : https://cyber.deform.cc/ecosystem-builder/
+
+Gerçek Discord kanalı burası. Lütfen Başka Discord kanalına girmeyin. 
 - discord : https://discord.gg/buildoncyber
