@@ -76,9 +76,12 @@ forge create --rpc-url "https://cyber.alt.technology/" --private-key CÜZDAN-PR�
 
 - işlem sonunda size  aşağıdakileri verecek kaydedin bir yere
   
-- Deployer
-- Deployed to
-- Transaction hash
+- Deployer  : Cüzdan adresiniz
+- Deployed to  : Sözleşme adresiniz Formda yazılacak
+- Transaction hash : Tx çıktınız
+
+![image](https://github.com/HerculesNode/cyber/assets/101635385/f063238e-6dec-4a1b-b57b-6cdc1190287f)
+
 
 ### Kontrol
 
