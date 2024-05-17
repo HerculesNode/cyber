@@ -95,5 +95,11 @@ işlem sonunda aşağıdaki formu doldurun .
 
 - Form : https://cyber.deform.cc/ecosystem-builder/
 
-Gerçek Discord kanalı burası. Lütfen Başka Discord kanalına girmeyin. 
-- discord : https://discord.gg/buildoncyber
+Offical Linkler: 
+
+- Website: https://cyber.co/
+- X (Twitter): https://twitter.com/BuildOnCyber
+- Discord: https://discord.gg/buildoncyber
+- Telegram: https://t.me/buildoncyber
+- Medium: https://buildoncyber.medium.com/
+- Link3 profile: https://link3.to/cyber
